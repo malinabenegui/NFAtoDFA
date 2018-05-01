@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524746983 source:c:\users\catan\desktop\lfa 2.0\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<algorithm>
+
